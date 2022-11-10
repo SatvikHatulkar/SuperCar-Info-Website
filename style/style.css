@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+.navbar{
+    background-color: rgb(255 0 0);
+}
+.navbar ul{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.navbar ul li a img{
+    width: 88px;
+    height: 68px;
+    margin: 2px 38px;
+}
+.imgparasec{
+    height: 2100px;
+}
+.imgparasec img{
+    display: block;
+    position: absolute;
+    top: 102px;
+    left: 35px;
+    box-shadow: 10px 10px 50px #ffffff9e, -10px -10px 50px #000000a8;
+    width: 4000px;
+    height: 2000px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 66px;
+}
+.p1{
+    color:antiquewhite;
+    text-shadow: 5px 8px 19px rgba(255, 255, 255, 0.594);
+    font-size: 100px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    padding: 12px 12px;
+    margin: 12px 12px;
+    top: 400px;
+    left: 4731px;
+}
+.p2{
+    color:antiquewhite;
+    text-shadow: 5px 8px 19px rgba(0, 0, 0, 0.643);
+    font-size: 79px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    padding: 12px 12px;
+    margin: 12px 12px;
+    top: 1200px;
+    left: 4073px;
+}
+.formsec div{
+    position: absolute;
+    width: 1920px;
+    height: 200px;
+    background-color: #6a00ba;
+    top: 1894px;
+    left: 4100px;
+    box-shadow: 2px 2px 18px #ffffff87, -3px -3px 28px #00000085;
+    border-radius: 10px;
+    border: 3px solid rgb(0, 0, 0);
+}
+.formsec div form{
+    display: inline-block;
+    padding: 51px 532px;
+}
+.formsec div form input{
+    border: 5px solid black;
+    border-radius: 50px;
+    font-size: 56px;
+    width: 850px;
+    height: 90px;
+    text-align: center;
+}
+.info{
+    height: 1178px;
+}
+.para1 p{
+    color: antiquewhite;
+    font-size: 60px;
+    padding: 0px 97px;
+    padding-top: 187px;
+}
+.para2 p{
+    color: antiquewhite;
+    font-size: 60px;
+    padding: 0px 97px;
+    padding-top: 108px;
+}
+#recsec h3{
+    color:antiquewhite;
+    font-size: 100px;
+    padding: 21px 0px;
+    text-align: center;
+    
+}
+#recsec{
+    height: 1000px;
+}
+.recimgs{
+    margin: 100px 47px;
+    width: 1922px;
+    height: 1137px;
+    border: 2px solid #00afff;
+    border-radius: 10px;
+}
+.diffmain h3{
+    color:antiquewhite;
+    position: absolute;
+    top: 5000px;
+    left: 2650px;
+    font-size: 100px;
+    padding: 21px 0px;
+    text-align: center;
+}
+.diffmain div{
+    position: absolute;
+    top: 5260px;
+}
+.diffmain a img{
+    width: 1922px;
+    height: 1469px;
+    margin: 35px 46px;
+    border: 2px solid #0089ff;
+    border-radius: 50px;
+}
+.diffmain a img:hover{
+    
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 90px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 75px;
+}
+/* #firstimg{
+    
+}
+#secondimg{
+
+}
+#thirdimg{
+
+} */
+/* .formsec div form label{
+    font-size: 200px;
+    color: black;
+} */
